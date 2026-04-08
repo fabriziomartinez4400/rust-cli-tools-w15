@@ -1,2 +1,15 @@
 # rust-cli-tools-w15
-High-performance command-line utilities written in Rust
+
+> Last updated: 2026-04-08
+
+## About
+
+This repository is actively maintained and updated regularly.
+
+## Getting Started
+
+Clone the repo and follow the setup instructions.
+
+## Contributing
+
+Contributions welcome! Please read CONTRIBUTING.md first.
