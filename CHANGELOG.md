@@ -2,5 +2,5 @@
 
 ## [Unreleased]
 
-- implement retry logic for failed requests
-- Build: 2026-04-08T13:00:01.615Z
+- add architecture decision records
+- Updated: 2026-04-12T13:00:02.226Z
