@@ -1,7 +1,7 @@
 # Notes
 
-Last updated: 2026-04-12T13:00:02.226Z
+Session: 2026-04-12T13:00:02.226Z
 
-## Progress
+## Summary
 
-- simplify conditional logic
+- add unit tests for core functions
