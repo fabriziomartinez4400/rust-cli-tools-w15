@@ -1,7 +1,7 @@
 # Notes
 
-Last updated: 2026-04-13T13:00:01.085Z
+Session: 2026-04-13T13:00:01.085Z
 
-## Progress
+## Summary
 
-- improve code examples in docs
+- extract helper functions to utils
