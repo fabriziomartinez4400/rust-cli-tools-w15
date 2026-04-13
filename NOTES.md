@@ -1,7 +1,7 @@
 # Notes
 
-Session: 2026-04-12T13:00:02.226Z
+Last updated: 2026-04-13T13:00:01.085Z
 
-## Summary
+## Progress
 
-- add unit tests for core functions
+- improve code examples in docs
