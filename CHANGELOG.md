@@ -2,5 +2,5 @@
 
 ## [Unreleased]
 
-- handle null pointer exception
-- Build: 2026-04-12T13:00:02.226Z
+- correct off-by-one error in loop
+- Updated: 2026-04-13T13:00:01.085Z
